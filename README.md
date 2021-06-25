@@ -12,6 +12,6 @@ the list of files:
 
 4- page.php contains php code and contains print statements for the direction values.
 
-5- control_database.sql contains the database with one taple.
+5- control_database.sql contains the database with one table.
 
 5- recording.mov
