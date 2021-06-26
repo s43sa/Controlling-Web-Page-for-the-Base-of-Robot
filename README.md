@@ -2,7 +2,7 @@
 
 This repository is about creating a control web page to control the base of the Robot with different directions (Left,Right,Forward,Backward,stop).
 
-the list of files:
+The list of files:
 
 1- Panel.php contains html,css codes and it's control panel web page that contains five buttons (Left,Right,Forward,Backward,stop) to control and move the base  of the Robot.
 
@@ -14,4 +14,4 @@ the list of files:
 
 5- control_database.sql contains the database with one table.
 
-5- recording.mov
+6- recording.mov
